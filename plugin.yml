@@ -3,3 +3,9 @@ name: SurvivalGames
 description: Learning To Code Java, This Is To Test!
 main: com.technothinker.SurvivalGames
 version: 1.0
+commands:
+   sg list:
+      description: This is a test command.
+      usage: /<command>
+      permission: SurvivalGames.Sg List
+      permission-message: You don't have <permission>
