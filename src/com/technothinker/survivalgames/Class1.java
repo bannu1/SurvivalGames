@@ -7,7 +7,7 @@ import org.bukkit.plugin.PluginDescriptionFile;
 import org.bukkit.plugin.java.JavaPlugin;
 
 public class Class1 extends JavaPlugin {
-	public static GameMode plugin;
+	public static SurvivalGames plugin;
 	public final Logger logger = Logger.getLogger("Minecraft");
 	
 	@Override
